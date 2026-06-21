@@ -1,0 +1,25 @@
+{
+  "expo": {
+    "name": "Volt Beta",
+    "slug": "volt-beta",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/volt-app-icon.png",
+    "userInterfaceStyle": "dark",
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#000000",
+        "foregroundImage": "./assets/volt-logo.png",
+        "backgroundImage": "./assets/volt-app-icon.png",
+        "monochromeImage": "./assets/volt-logo.png"
+      },
+      "predictiveBackGestureEnabled": false
+    },
+    "web": {
+      "favicon": "./assets/volt-logo.png"
+    }
+  }
+}

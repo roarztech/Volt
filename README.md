@@ -1,6 +1,6 @@
-# Volt
+# Volt Beta
 
-Volt is a premium mobile-first AI fitness coach built with Expo, React Native, and TypeScript. It helps users track workouts, nutrition, body progress, progressive overload, and coaching conversations in one clean dark-mode experience.
+Volt Beta is a premium mobile-first AI fitness coach built with Expo, React Native, and TypeScript. It helps users track workouts, nutrition, body progress, progressive overload, and coaching conversations in one clean dark-mode experience.
 
 ## Highlights
 
